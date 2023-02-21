@@ -13,6 +13,11 @@
 <div align="center">
   <a href="https://github.com/RyanD3g">
 </div>
+
+  <h2>Skills 💪</h2>
+  
+  
+  </hr>
 <div style="display: flex"><br>
   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" margin="0" alt="Ryan-Ts" height="30" width="90" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
