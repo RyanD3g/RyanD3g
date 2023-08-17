@@ -1,13 +1,13 @@
 ### Hi! I'm Ryan! 👋
 <h2>I'm Backend Developer  🧠  👾</h2>
 
-- 🔭 I’m currently working on NodeJs and React 
-- 🌱 I’m currently learning React native
+- 🔭 I’m currently working on NodeJs  
+- 🌱 I’m currently learning C++
 - 💬 Ask me about Javascript, Networks and Linux
 - 😄 Pronouns: Him, his
 - ⚡ Fun fact: I'm funny lol
-- 💪🏻Experiences with Freelancer
--  💡 Developing a Startup
+- 💪🏻 Experiences with Freelancer
+- 💡 Developing a Startup
 
 
 <div align="center">
